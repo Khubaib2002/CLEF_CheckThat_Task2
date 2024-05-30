@@ -1,4 +1,4 @@
-# CLEF CheckThat Lab Task 2: Subjectivity/Objectivity Detection using LLM
+## CLEF CheckThat Lab Task 2: Subjectivity/Objectivity Detection using LLM
 
 This project aimed to develop a subjectivity/objectivity detection system for news article extracts as part of the CLEF CheckThat Lab Task 2 challenge.
 The dataset provided for the task consists of a collection of news article extracts, each labeled with its corresponding subjectivity or objectivity label. For our project, we made use of the English Dataset.
